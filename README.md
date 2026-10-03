@@ -322,6 +322,8 @@ I enjoy working across the entire development process, combining responsive desi
 
 <!-- ═══════════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
 
+<!-- ═══════════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
+
 <div align="center">
 
 ## 05 / THE CONTRIBUTION TRAIL
@@ -332,63 +334,22 @@ I enjoy working across the entire development process, combining responsive desi
 
 <br/>
 
-<!--
-  CONTRIBUTION SNAKE SETUP
-
-  Create this file in your profile repository:
-  .github/workflows/snake.yml
-
-  Add the workflow shown below, commit it, and enable GitHub Actions.
-  The workflow publishes SVGs to the "output" branch.
-
-  name: Generate Contribution Snake
-
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-    push:
-      branches:
-        - main
-
-  permissions:
-    contents: write
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Generate contribution snake
-          uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-        - name: Publish snake
-          uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/SarnabBhattacharjee/SarnabBhattacharjee/output/github-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/SarnabBhattacharjee/SarnabBhattacharjee/output/github-snake.svg"
   />
+
   <img
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/SarnabBhattacharjee/SarnabBhattacharjee/output/github-snake.svg"
     width="100%"
-    alt="Animated GitHub contribution snake"
-/>
+    alt="GitHub Contribution Snake"
+  />
 </picture>
 
 </div>
