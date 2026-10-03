@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="./header-dark.png">
+   <img alt="Logo for About Me" src="./header-light.png">
+</picture>
+
 # ＳＡＲＮＡＢ ＢＨＡＴＴＡＣＨＡＲＪＥＥ
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B669FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+modern+digital+experiences;Frontend+%E2%86%92+Backend+%E2%86%92+Database;Turning+ideas+into+real+products;Always+learning.+Always+building.)](https://git.io/typing-svg)
