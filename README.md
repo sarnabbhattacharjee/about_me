@@ -332,29 +332,27 @@ I enjoy working across the entire development process, combining responsive desi
   A visual trail of the work behind the code.
 </p>
 
-<br/>
+<br>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SarnabBhattacharjee/SarnabBhattacharjee/output/github-snake-dark.svg"
-  />
+    srcset="https://raw.githubusercontent.com/sarnabbhattacharjee/sarnabbhattacharjee/output/github-snake-dark.svg"
+  >
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SarnabBhattacharjee/SarnabBhattacharjee/output/github-snake.svg"
-  />
+    srcset="https://raw.githubusercontent.com/sarnabbhattacharjee/sarnabbhattacharjee/output/github-snake.svg"
+  >
 
   <img
-    src="https://raw.githubusercontent.com/SarnabBhattacharjee/SarnabBhattacharjee/output/github-snake.svg"
-    width="100%"
+    src="https://raw.githubusercontent.com/sarnabbhattacharjee/sarnabbhattacharjee/output/github-snake.svg"
     alt="GitHub Contribution Snake"
-  />
+    width="100%"
+  >
 </picture>
 
 </div>
-
----
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
