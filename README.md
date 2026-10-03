@@ -13,7 +13,7 @@
 
 <!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <source media="(prefers-color-scheme: dark)" srcset="./header-dark.png">
    <img alt="Logo for About Me" src="./header-light.png">
 </picture>
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
