@@ -12,7 +12,10 @@
 <div align="center">
 
 <!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
-
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for About Me" src="./header-light.png">
+</picture>
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=3&color=6e0f96"
