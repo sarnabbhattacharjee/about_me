@@ -338,21 +338,23 @@ I enjoy working across the entire development process, combining responsive desi
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/sarnabbhattacharjee/sarnabbhattacharjee/output/github-snake-dark.svg"
-  >
+  />
 
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/sarnabbhattacharjee/sarnabbhattacharjee/output/github-snake.svg"
-  >
+  />
 
   <img
     src="https://raw.githubusercontent.com/sarnabbhattacharjee/sarnabbhattacharjee/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
     width="100%"
-  >
+    alt="GitHub Contribution Snake"
+  />
+
 </picture>
 
 </div>
+
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
